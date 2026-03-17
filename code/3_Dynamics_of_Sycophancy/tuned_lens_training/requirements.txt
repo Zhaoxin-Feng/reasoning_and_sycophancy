@@ -1,0 +1,9 @@
+tqdm
+tuned_lens
+transformers
+datasets
+accelerate
+bitsandbytes
+wandb
+hf_transfer
+torchdata==0.7.1
